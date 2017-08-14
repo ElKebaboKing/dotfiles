@@ -1,0 +1,9 @@
+# Load all aliases
+source ~/.bash_aliases
+
+# Stuff that might be good to know
+echo "Did you know that: "; whatis $(ls /bin | shuf -n 1)
+#cowsay -f $(ls /usr/share/cowsay/cows | shuf -n 1 | cut -d. -f1) $(whatis $(ls /bin) 2>/dev/null | shuf -n 1)
+
+# added by Miniconda3 4.3.21 installer
+export PATH="/home/rani/miniconda3/bin:$PATH"

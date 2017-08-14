@@ -1,0 +1,13 @@
+alias chrome="google-chrome --password-store=basic & disown"
+alias studio="/opt/android-studio/bin/studio.sh & disown"
+alias home="cd ~"
+alias spotify="/usr/share/spotify/spotify & disown"
+alias android="cd ~/AndroidStudioProjects"
+alias push="git push origin master"
+alias pull="git pull origin master"
+alias subl="/opt/sublime_text/sublime_text"
+alias sublime="/opt/sublime_text/sublime_text"
+alias npp="/opt/sublime_text/sublime_text"
+alias update="sudo apt-get update
+sudo apt-get upgrade"
+alias matlab="/usr/local/MATLAB/R2017a/bin/matlab & disown"
