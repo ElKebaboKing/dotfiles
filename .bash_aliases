@@ -11,3 +11,4 @@ alias npp="/opt/sublime_text/sublime_text"
 alias update="sudo apt-get update
 sudo apt-get upgrade"
 alias matlab="/usr/local/MATLAB/R2017a/bin/matlab & disown"
+alias dotfiles="cd ~/dotfiles/"
