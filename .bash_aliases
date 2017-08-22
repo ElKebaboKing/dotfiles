@@ -12,3 +12,8 @@ alias update="sudo apt-get update
 sudo apt-get upgrade"
 alias matlab="/usr/local/MATLAB/R2017a/bin/matlab & disown"
 alias dotfiles="cd ~/dotfiles/"
+alias SDCND="cd ~/SDCND/"
+alias activate_term1="source activate carnd-term1"
+alias line="/opt/google/chrome/google-chrome --profile-directory=Default --app-id=menkifleemblimdogmoihpfopnplikde"
+alias keep="/opt/google/chrome/google-chrome --profile-directory=Default --app-id=hmjkmjkepdijhoojdojkdfohbdgmmhki"
+alias youtube="/opt/google/chrome/google-chrome --profile-directory=Default --app-id=blpcfgokakmgnkcojhhkbfbldkacnbeo"
