@@ -9,7 +9,8 @@ alias subl="/opt/sublime_text/sublime_text"
 alias sublime="/opt/sublime_text/sublime_text"
 alias npp="/opt/sublime_text/sublime_text"
 alias update="sudo apt-get update
-sudo apt-get upgrade"
+sudo apt-get upgrade
+sudo apt autoremove"
 alias matlab="/usr/local/MATLAB/R2017a/bin/matlab & disown"
 alias dotfiles="cd ~/dotfiles/"
 alias SDCND="cd ~/SDCND/"
