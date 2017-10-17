@@ -20,3 +20,4 @@ alias keep="/opt/google/chrome/google-chrome --profile-directory=Default --app-i
 alias youtube="/opt/google/chrome/google-chrome --profile-directory=Default --app-id=blpcfgokakmgnkcojhhkbfbldkacnbeo"
 alias TensorIntro_activate="source activate IntroToTensorFlow"
 alias TensorIntro_deactivate="source deactivate IntroToTensorFlow"
+alias arduino="/opt/arduino/arduino &"
